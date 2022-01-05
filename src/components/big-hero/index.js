@@ -59,11 +59,11 @@ const BigHero = () => {
                 About
               </Link>
             </li>
-            <li>
+            {/* <li>
               <Link to="#Resume" style={{ cursor: "pointer" }}>
                 Resume
               </Link>
-            </li>
+            </li> */}
             {/* <li>
               <Link to="#Projects">Projects</Link>
             </li> */}
