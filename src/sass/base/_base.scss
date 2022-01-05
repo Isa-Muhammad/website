@@ -5,9 +5,13 @@
   box-sizing: border-box;
   font-family: "VCROSDMono";
   background-color: $color-white;
-  overflow: hidden;
+  // overflow: hidden;
 }
 
 body {
   line-height: 1.7;
+}
+
+section {
+  height: 100vh;
 }

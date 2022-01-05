@@ -13,11 +13,10 @@
   }
 
   a:hover {
-    border-bottom: 1px solid $color-alt-white;
+    border-bottom: 1px solid $color-alt-black;
   }
 
   a:focus {
-    border-bottom: 1px solid $color-alt-black;
     color: $color-alt-black;
   }
 
