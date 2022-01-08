@@ -3,6 +3,7 @@ import htmlLogo from "../../../assets/Images/html-5.png";
 import cssLogo from "../../../assets/Images/css3.png";
 import javascriptLogo from "../../../assets/Images/javascript.png";
 import reactLogo from "../../../assets/Images/react.gif";
+import sassLogo from "../../../assets/Images/sass.png";
 
 const About = () => {
   return (
@@ -60,6 +61,11 @@ const About = () => {
               <div className="skill_icon">
                 <img src={reactLogo} style={{ width: "130px" }} />
                 <p>React</p>
+              </div>
+
+              <div className="skill_icon">
+                <img src={sassLogo} style={{ width: "130px" }} />
+                <p>Sass</p>
               </div>
             </div>
           </div>
